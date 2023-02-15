@@ -35,3 +35,5 @@ main = do
     putStrLn "- <Int>    - Delete numbered"
     putStrLn "q          - Quit"
     prompt []
+    
+    --Walked through with online resource. First "program"
